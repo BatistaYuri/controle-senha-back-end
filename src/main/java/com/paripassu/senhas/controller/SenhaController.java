@@ -35,7 +35,7 @@ public class SenhaController {
 		return senhaRepository.findProximasSenha();
 	}
 	
-	@ApiOperation(value="Retorna lista de senhas")
+	@ApiOperation(value="Retorna senha atual")
 	@GetMapping("/senhaAtual")
 	public Senha getSenhaAtual(){
 		return senhaRepository.findByStatus();
