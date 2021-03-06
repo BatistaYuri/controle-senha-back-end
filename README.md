@@ -24,3 +24,4 @@ Excecute o arquivo src\main\java\com\paripassu\senhas\SenhasApplication.java com
 Local :http://localhost:8080/swagger-ui.html
 
 Servidor Amazon AWS: http://gerenciadordesenhas2-env.eba-2iebjrez.sa-east-1.elasticbeanstalk.com/swagger-ui.html
+OBS: Servidor Amazon AWS pausado durante final de semana para não exeder tempo limite para servidores gratuitos.
